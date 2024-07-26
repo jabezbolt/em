@@ -1,3 +1,2 @@
-imaplib
-email
-smtplib
+# List only external dependencies here, e.g.
+# requests
